@@ -1,0 +1,34 @@
+{
+  "downfall:Aged": {
+    "NAME": "Gerijpt",
+    "DESCRIPTION": "Onspeelbaar. Etherisch. NL Aan het einde van je beurt, Voeg een *Leegte bovenop je trekstapel."
+  },
+  "downfall:Bewildered": {
+    "NAME": "Verbijsterd",
+    "DESCRIPTION": "Onspeelbaar. Etherisch. NL Wanneer je deze kaart trekt, sneckomod:Muddle je hand."
+  },
+  "downfall:Icky": {
+    "NAME": "Icky",
+    "DESCRIPTION": "Voeg een *Verslijmd toe aan je hand. NL Put-uit."
+  },
+  "downfall:Haunted": {
+    "NAME": "Haunted",
+    "DESCRIPTION": "Onspeelbaar. Etherisch. NL Telkens als een kaart wordt *Uitgeput wanneer je deze kaart in je hand hebt, neem 2 schade."
+  },
+  "downfall:Malfunctioning": {
+    "NAME": "Gebrekkig",
+    "DESCRIPTION": "Aan het einde van je beurt, transformeer ALLE kaarten in je hand in willekeurig Statuskaarten. NL Put-uit."
+  },
+  "downfall:Scatterbrained": {
+    "NAME": "Losgeslagen",
+    "DESCRIPTION": "Aan het einde van je beurt, als deze kaart in je hand zit, voeg een kopie van deze kaart toe aan je aflegstapel. NL Put-uit."
+  },
+  "downfall:SummonMushrooms": {
+    "NAME": "Schimmels Onder Ons",
+    "DESCRIPTION": "Genees LP gelijk aan de totale LP van je Paddenstoelen, zet hun LP op 0. NL Roep 2 Paddenstoelen op."
+  },
+  "downfall:BossMaintenance": {
+    "NAME": "Onderhoud",
+    "DESCRIPTION": "*Slagen richten !M! meer schade dit gevecht. NL Krijg !B! *Behendigheid. NL Deze kaart kost 1 meer dit gevecht."
+  }
+}
