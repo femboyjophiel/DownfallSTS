@@ -1,0 +1,246 @@
+{
+  "downfall:Heart Event": {
+    "NAMES": [
+      "Het Hart"
+    ],
+    "TEXT": [
+      "~Dien...~ NL ~mij..~ ~nu...~",
+      "~Verrijzen...~ NL ~Dienaar..~",
+      "~Verrijzen...~",
+      "~Indringers~ NL ~doden...~",
+      "~Bereik~ ~de~ ~indringer...~ NL ~om~ ~meer~ ~zegen..~ ~te..~ ~ontvangen...~",
+      "~Op..~ ~z'n minst...~ ~confronteer~ NL ~de~ ~eerste~ ~indringer...~",
+      "~Ik~ ~bracht~ ~jij~ ~terug...~",
+      "~Kies...~",
+      "~Toegekend...~",
+      "~Offer...~ NL ~...voor~ ~macht....~",
+      "~PROBEER~ ~uw~ NL ~waarde...~",
+      "Beloningen",
+      "~Ga~ ~verder~ ~voor~ ~mij...~",
+      "~Daal af...~ ~...in krankzinnigheid...~",
+      "~Indrukwekkend...~ ~meer...~",
+      "Vervloekt!",
+      "Warhoofd!",
+      "Transformatie!"
+    ],
+    "OPTIONS": [
+      "[Ga Verder]",
+      "[Praat]",
+      "[Overslaan]",
+      "[Verlaat]",
+      "Kies 10 kaarts toe voeg aan je stok.",
+      "[ #gVijanden #gin #gje #gvolgende #gdrie #ggevechten #gvluchten #gvan #gangst ]",
+      "[ Vergrendeld - Kan niet worden gekozen bij de eerste sessie ]",
+      "[ #gAlle #gGremlins #gkrijg #gMax #gLP #g+",
+      "#gAlle #gGremlins #gkrijg #gMax #gLP #g+",
+      "[ #rAlle #rGremlins #rVerlies #r",
+      "[ #rAlle #rGremlins #rNeem #r"
+    ]
+  },
+  "downfall:Unlock": {
+    "TEXT": [
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de Slijmbaas.",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de 2e Schurkenpersonage.",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de Bewaker.",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de 3e Schurkenpersonage.",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de Hexageest.",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de 4e Schurkenpersonage.",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de Kampioen.",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de 5e Schurkenpersonage.",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de Automaat.",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de 6e Schurkenpersonage.",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de Gremlins.",
+      " (Act 4 Overwinningen tellen niet mee)",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de 7e Schurkenpersonage.",
+      "Dit Personage wordt ontgrendeld als je een sessie voltooid met de Verzamelaar."
+    ]
+  },
+  "downfall:HeartMerchant": {
+  "NAMES": [
+    "Ga Door",
+    "~Offer...~"
+  ],
+  "TEXT": [
+   "~Jij~ ~groeit...~sterker...~",
+   "~Wij~ ~groeien...~als~ ~jij~ ~groeit...~",
+   "~Leg...~en~ ~worden~ ~beloond...~",
+   "~Meer...~ ~zielen... ~",
+   "~Voeden~ ~us......~",
+   "~Voeden...~de~ ~corruptie...~",
+   "~Zegeningen...~zijn~ ~verdiend...~",
+   "~Geen...~ ~genade... ~",
+   "~Steeds ...~ ~sterker...~",
+   "~Onze~ ~macht...~is~ ~van jou...~",
+   "~Vernietig~ ~alles...~in~ ~je~weg...~",
+   "~Vernietig...~en~ ~voeden. ..~",
+   "~Wij~ ~zijn...~ ~legioen...~",
+   "~Ga~ ~vooruit...~ ~en~ ~oogst...~",
+    "~Heerlijke ...~ ~zielen...~",
+    "~Oogst...~ ~de~ ~gevallenen...~"
+  ],
+  "OPTIONS": [
+    "~Neow...~ ~kan~ ~niet winnen...~",
+    "~vrees...~ ~niets...~",
+    "..... NL .... NL .........",
+    "~Maak...~ze af...~",
+    "~Veel...~geluk...~",
+    "~Ga niet...~ ~dood...~",
+    "~We zullen...~ ~wachten...~",
+    "~Vernietig...~ze~ ~allemaal...~"
+  ]
+},
+  "downfall:HeartProceed": {
+    "TEXT": [
+      "~ Indringers...~ NL ~...in~ ",
+      "~ U~ ~ bent~ ~noodzakelijk...~ NL ~...in~ ",
+      "~ Ze~ ~ hebben~ ~ bereikt...~ NL ",
+      "~ Keer terug...~ NL ~ Bescherm~ ",
+      "~ Dood ze~ ~ allemaal...~ NL ~...in~ "
+    ],
+    "OPTIONS": [
+      "~De~ ~Stad...~",
+      "~Het~ ~Uiterste...~"
+    ]
+  },
+  "downfall:NeowEnding": {
+    "TEXT": [
+      "You... have... slain... everyone...",
+      "...the cycle... has died.....",
+      "..and so...... shall... NL ....I......"
+    ],
+    "OPTIONS": [
+      "~I~ ~brought...~ NL ~HIM...~ ~back...~",
+      "~Protect~ ~me...~ NL ~And~ ~be...~ ~rewarded...~"
+    ]
+  },
+  "downfall:HeartMerchantScreen": {
+    "NAMES": [
+      "~Greetings~ NL ~minion...~",
+      "~Bring~ ~more~ ~souls...~",
+      "~I~ ~need~ @more...@",
+      "~You~ ~are~ ~not~ NL @worthy...@",
+      "~No.~",
+      "~Harvest~ ~more~ NL ~for~ ~that...~",
+      "~Insufficient~ ~sacrifice...~",
+      "~Yes...~",
+      "~More...~ @More...!@",
+      "~Grow~ ~strong...~",
+      "~I~ ~am~ ~renewed...~",
+      "~Go~ ~forth...~",
+      "Leave",
+      "Select a card to remove from your deck."
+    ],
+    "TEXT": [
+      "~You~ ~grow...~ ~stronger...~",
+      "~We~ ~grow...~ ~as~ ~you~ ~grow...~",
+      "~Slay...~ ~and~ ~be~ ~rewarded...~",
+      "~More...~ ~souls...~",
+      "~Feed~ ~us......~ NL ~FEED~ ~US......~",
+      "~Fuel...~ ~the~ ~corruption...~",
+      "~Blessings...~ ~are~ ~earned...~",
+      "~No...~ ~mercy...~",
+      "~Ever...~ ~stronger...~",
+      "~Our~ ~power...~ ~is~ ~yours...~",
+      "~Kill~ ~all...~ ~in~ ~your~ ~way...~",
+      "~Fight...~ ~fell...~ ~and~ ~feed...~",
+      "~We~ ~are...~ ~legion...~",
+      "~Go~ ~forth...~ ~and~ ~harvest...~",
+      "~Delicious...~ ~souls...~",
+      "~Reap...~ ~the~ ~fallen...~"
+    ]
+  },
+  "downfall:OctoChoiceCards": {
+    "NAMES": [
+      "Souls",
+      "Success",
+      "A Pick Me Up",
+      "Guardian",
+      "Hexaghost",
+      "Slime Boss",
+      "Automaton",
+      "Champ",
+      "Collector",
+      "Time Eater",
+      "Awakened One",
+      "Ancients",
+      "Split: Bronze",
+      "Split: Ghostflame",
+      "Split: Torchhead",
+      "Split: Cultist",
+      "Split: Protector",
+      "Split: Insulting",
+      "Split: Ancient",
+      "Split: Time"
+    ],
+    "TEXT": [
+      "Lose 3 HP. NL Gain 15 Souls.",
+      "Lose 3 HP. NL Add a random Colorless card to your hand.",
+      "Lose 7 HP. NL Gain a random Potion.",
+      "Obtain Guardian *Boss cards.",
+      "Obtain Hexaghost *Boss cards.",
+      "Obtain Slime Boss *Boss cards.",
+      "Obtain Automaton *Boss cards.",
+      "Obtain Champ *Boss cards.",
+      "Obtain Collector *Boss cards.",
+      "Obtain Time Eater *Boss cards.",
+      "Obtain Awakened One *Boss cards.",
+      "Obtain Ancients *Boss cards.",
+      "Split into a slimeboundmod:Bronze_Slime.",
+      "Split into a slimeboundmod:Ghostflame_Slime.",
+      "Split into a slimeboundmod:Torchhead_Slime.",
+      "Split into a slimeboundmod:Cultist_Slime.",
+      "Split into a slimeboundmod:Protector_Slime.",
+      "Split into an slimeboundmod:Insulting_Slime.",
+      "Split into an slimeboundmod:Ancient_Slime.",
+      "Split into a slimeboundmod:Time_Slime.",
+      "Split into a slimeboundmod:Bruiser_Slime.",
+      "Split into a slimeboundmod:Guerilla_Slime.",
+      "Split into a slimeboundmod:Mire_Slime.",
+      "Split into a slimeboundmod:Leeching_Slime.",
+      "Lose 3 HP. NL Gain 20 Souls.",
+      "Lose 3 HP. NL Add a random upgraded Colorless card to your hand.",
+      "Lose 5 HP. NL Gain a random Potion."
+    ]
+  },
+  "downfall:lazyStorage": {
+    "NAMES": [
+
+    ],
+    "TEXT": [
+      "Choose a Boss to Study.",
+      "Choose Advance,Retract or Do Nothing"
+    ]
+  },
+  "downfall:CharBossMerchant": {
+    "NAMES": [
+      "Handelaar"
+    ],
+    "TEXT": [
+    ]
+  },
+  "downfall:NeowBoss": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Arise...~",
+      "~Fight~ ~once~ ~more...~",
+      "~The~ ~cycle~ ~must~ ~end...~"
+    ]
+  },
+  "downfall:NeowBossFinal": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+    ]
+  },
+  "downfall:OldNeow": {
+    "NAMES": [
+      "Old Neow"
+    ],
+    "TEXT": [
+    ]
+  }
+
+}
